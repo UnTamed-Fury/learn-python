@@ -1,0 +1,1 @@
+import{t as e}from"./CbRhUNmV.js";import{e as n,f as c,c as l,o as p,h as u,n as m}from"./CgY_wmVs.js";const d={base:"bg-muted"},_={__name:"ProseThead",props:{class:{type:null,required:!1}},setup(s){const a=s,t=n(),o=c(()=>e({extend:e(d),...t.ui?.prose?.thead||{}}));return(r,f)=>(p(),l("thead",{class:m(o.value({class:a.class}))},[u(r.$slots,"default")],2))}};export{_ as default};

@@ -1,0 +1,1 @@
+import{c as o}from"./BBHTwEgP.js";import{v as e,f as i}from"./CgY_wmVs.js";const[n]=o("ConfigProvider");function f(t){const r=n({dir:e("ltr")});return i(()=>t?.value||r.dir?.value||"ltr")}export{f as u};

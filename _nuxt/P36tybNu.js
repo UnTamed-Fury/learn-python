@@ -1,0 +1,1 @@
+import{Q as a,aw as c,ah as u,f as m}from"./CgY_wmVs.js";import{u as p}from"./CLW7bR7z.js";function i(o){const e=a(),s=e?.type.emits,t={};return s?.length||console.warn(`No emitted event found. Please check component: ${e?.type.__name}`),s?.forEach(r=>{t[c(u(r))]=(...n)=>o(r,...n)}),t}function l(o,e){const s=p(o),t=e?i(e):{};return m(()=>({...s.value,...t}))}export{l as u};
